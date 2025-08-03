@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Ahmed",
+    "specialization": "Cardiology",
+    "contact": "0123456789"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Tanvir Rahman",
+    "specialization": "Neurology",
+    "contact": "01711223344"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Anika Chowdhury",
+    "specialization": "Dermatology",
+    "contact": "01987654321"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Imran Hossain",
+    "specialization": "Orthopedics",
+    "contact": "01812345678"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nusrat Jahan",
+    "specialization": "Pediatrics",
+    "contact": "01622334455"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Faisal Kabir",
+    "specialization": "Gastroenterology",
+    "contact": "01733445566"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Mahbub Alam",
+    "specialization": "Psychiatry",
+    "contact": "01512312312"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Laila Haque",
+    "specialization": "Oncology",
+    "contact": "01911224433"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Shafiul Islam",
+    "specialization": "Urology",
+    "contact": "01398765432"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Tania Rahman",
+    "specialization": "ENT (Ear, Nose, Throat)",
+    "contact": "01456789123"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Rezaul Karim",
+    "specialization": "Endocrinology",
+    "contact": "01899887766"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Marium Akter",
+    "specialization": "Nephrology",
+    "contact": "01744556677"
+  }
+]
